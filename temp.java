@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Temp {
-
+/* This asks for the temp in the past 3 days, doing an average at the end*/
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the temperature in Celsius in the past 3 days");
