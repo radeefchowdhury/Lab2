@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Minutes {
-
+/* This changes the seconds you put into minutes and seconds*/
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
         System.out.println("Enter time in seconds");
