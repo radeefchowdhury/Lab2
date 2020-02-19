@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.lang.Math;
 
 public class bmi {
-
+/* This program calculates your bmi using your pounds transformed into kg and your height in foot converted into meters*/
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
        System.out.println("Enter your weight in pounds");
