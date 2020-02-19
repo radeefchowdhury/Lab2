@@ -1,4 +1,3 @@
-
 package name;
 
 import java.util.Scanner;
@@ -12,9 +11,6 @@ public class name {
         String lastname = sc.nextLine();
         lastname = lastname.substring(0,1).toUpperCase() + lastname.substring(1).toLowerCase();
         firstname = firstname.substring(0,1).toUpperCase() + firstname.substring(1).toLowerCase();
-         System.out.println("Your full name is: " + firstname +  lastname);
-         
-        
-    }
-    
+         System.out.println("Your full name is: " + firstname +  lastname);    
+    }   
 }
